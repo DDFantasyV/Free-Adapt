@@ -1,0 +1,10 @@
+# train requirements
+torch == 2.1.0+cu121
+torchvision == 0.16.0+cu121
+pandas == 2.1.2
+pyyaml == 6.0.1
+tqdm == 4.66.1
+
+
+# attack requirements
+git+https://github.com/fra31/auto-attack
