@@ -2,7 +2,7 @@
 
 **Improving Robustness of Computer Vision Models via Different Adversarial Training**\
 Yuchen Xu, Junjie Wang, Tianzhen Yang, Wenxuan Zhang\
-_Computer Vision PBL Research_\
+_Computer Vision PBL Research_
 
 ## Overview and Key Ideas
 Our method is based on the FreeAT algorithm for improvement. By evaluating and adjusting the value of parameter m in real-time during the training process, we achieve better training results, resulting in higher adversarial accuracy and cleaning accuracy while maintaining training time that is basically the same as the original method.
